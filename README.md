@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I am Zhuoran (Andrew) Su, a sophomore at Northwestern! Go Wildcats!
 
 [![Andrew(Zhuoran)'s GitHub stats](https://github-readme-stats.vercel.app/api?username=ZhuoranS)](https://github.com/ZhuoranS/github-readme-stats)
 
